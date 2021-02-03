@@ -1,0 +1,20 @@
+﻿Build started 10/26/2017 9:12:49 AM.
+     1>Project "C:\Users\Surid\Documents\Visual Studio 2010\Projects\maruf\maruf\maruf.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\maruf.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Surid\Documents\Visual Studio 2010\Projects\maruf\Debug\maruf.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\maruf.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Surid\Documents\Visual Studio 2010\Projects\maruf\Debug\maruf.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Surid\Documents\Visual Studio 2010\Projects\maruf\Debug\maruf.lib" /MACHINE:X86 Debug\TextInputDemo.obj
+         LINK : C:\Users\Surid\Documents\Visual Studio 2010\Projects\maruf\Debug\maruf.exe not found or not built by the last incremental link; performing full link
+         maruf.vcxproj -> C:\Users\Surid\Documents\Visual Studio 2010\Projects\maruf\Debug\maruf.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Surid\Documents\Visual Studio 2010\Projects\maruf\Debug\maruf.exe;#1" /manifest Debug\maruf.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\maruf.unsuccessfulbuild".
+         Touching "Debug\maruf.lastbuildstate".
+     1>Done Building Project "C:\Users\Surid\Documents\Visual Studio 2010\Projects\maruf\maruf\maruf.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70
